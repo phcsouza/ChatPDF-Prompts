@@ -1,0 +1,14 @@
+Sobre o que se trata o artigo?
+Quais perguntas o artigo visa responder e qual o objetivo do estudo?
+Elabore um resumo/síntese detalhado sobre o artigo.
+Faça um pequeno parágrafo sobre cada tópico (Introdução, Metodologia, Resultados, Discussão e Conclusão)* de forma a sintetizar o artigo.
+Pode-se dizer que o documento é um artigo de revisão? Se não, como ele é classificado?
+Explique a metodologia empregada na pesquisa.
+Quais são as vantagens e limitações de {metodologia empregada no artigo} nos estudos de {tema do artigo}? Quais outras abordagens metodológicas poderiam ter sido utilizadas?
+Quais foram os resultados encontrados ao fim do estudo?
+Descreva detalhadamente os resultados e a discussão dos resultados obtidos neste estudo.
+A partir dos resultados obtidos, a que conclusões os autores chegaram?
+Elabore {X} tópicos para montar uma apresentação baseada neste documento.
+Escreva {X} possíveis questões para uma prova baseada neste artigo e suas respectivas respostas.
+
+*Nem todo artigo terá a mesma estrutura, adapte o prompt à estrutura do seu documento.
